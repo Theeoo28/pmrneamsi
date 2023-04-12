@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: default;
+  }
+}
+
+.custom-img{
+  background-image: url('https://i.postimg.cc/d3J00kmV/311598075-1165842287479281-5623413984951265240-n-webp-stp-dst-jpg-e35-nc-ht-scontent-cgk1-1-cdninst.jpg');
+}
