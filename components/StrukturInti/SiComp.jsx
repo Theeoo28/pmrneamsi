@@ -10,7 +10,7 @@ export function SiComp ()  {
           <div className="max-w-2xl">
             <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
               Struktur <span className="text-sky-600">Inti</span>{" "}
-              <span className="bg-gradient-to-tl from-lime-700 to-red-600 bg-clip-text text-transparent">
+              <span className="bg-gradient-to-tlt from-lime-700 to-red-600 bg-clip-text text-transparent">
                 Organisasi
               </span>{" "}
               PMR <span className="text-amber-500">Wira</span> unit SMKN 6 Kota
